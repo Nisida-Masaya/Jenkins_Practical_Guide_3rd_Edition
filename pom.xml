@@ -34,6 +34,7 @@
       <version>${easymock.version}</version>
       <scope>test</scope>
     </dependency>
+    
   </dependencies>
   
   <properties>
@@ -66,6 +67,8 @@
     <!-- JaCoCo Properties -->
     <jacoco-maven.version>0.7.9</jacoco-maven.version>
     <jacoco.include.package>**/*</jacoco.include.package>
+
+    
   </properties>
   
   <build>
